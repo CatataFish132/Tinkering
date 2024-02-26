@@ -4,6 +4,9 @@ date: 2024-02-21 18:55:00 +0100
 categories: [Tinkering, Assignments]
 tags: [assignment]     # TAG names should always be lowercase
 math: false
+image:
+  path: /assets/posts/block/block.jpg
+img_path: /assets/posts/block/
 ---
 
 When first hearing this assignment my mind directly went to magnets instead of any physical link, 
@@ -16,4 +19,5 @@ other wise you wouldn't be able to stack them.
 I want to arrange the manget in such a way that it would not be possible to incorrectly connect them.
 This is why for the top and bottom all the magnets are either south or north poles,
 but for the sides one has the 2 top magnets north and the 2 bottom magnets south, while the other side has them alternating.
+![Desktop View](magnets.jpg){: .left }
 This way it is not possible to line up these blocks incorrectly, side 1 can only connect to side 1, and side 2 can only connect to side 2.
