@@ -4,9 +4,10 @@ date: 2024-02-21 18:55:00 +0100
 categories: [Tinkering, Assignments]
 tags: [assignment]     # TAG names should always be lowercase
 math: false
-image:
-  path: /assets/posts/block/block.jpg
 img_path: /assets/posts/block/
+image:
+  path: block.jpg
+
 ---
 
 When first hearing this assignment my mind directly went to magnets instead of any physical link, 
