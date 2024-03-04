@@ -9,7 +9,7 @@ image:
 ---
 
 This is my workspace, I circled the 3 most things that I think are important when tinkering. 
-Next to my laptop you can see a couple of microcontrollers which I use a lot for projects, 
+Next to my laptop you can see a couple of micro controllers which I use a lot for projects, 
 I also have some paper and pencils (I really like pencils more than pens) to either draw some stuff or write something down.
 Lastly I circled my speakers, when busy tinkering I like to listen to music so I can focus, but not focus too much.
 I wish I had more electronics components laying around so I could play with them more and get more physical.
