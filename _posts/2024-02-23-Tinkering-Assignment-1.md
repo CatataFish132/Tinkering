@@ -7,7 +7,6 @@ math: false
 img_path: /assets/posts/block/
 image:
   path: block.jpg
-pin: true
 ---
 
 ![Desktop View](magnets.jpg){: .left .w-50}
