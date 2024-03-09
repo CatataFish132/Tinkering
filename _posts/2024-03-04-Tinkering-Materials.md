@@ -5,8 +5,17 @@ categories: [Tinkering]
 pin: true
 ---
 
-| Materials   | Preciousness | intuitive | idiot proof | Modularity | Customizability | Versatility | High ceiling | Wide Walls | Low floor | Affordance |
-| ----------- | ------------ | --------- | ----------- | ---------- | --------------- | ----------- | ------------ | ---------- | --------- | ---------- |
-| Lego        | ++           | ++        | ++          | ++         | -               | ++          | ++           | +          | ++        | ++         |
-| Little Bits | ++           | -         | ++          | ++         | --              | -           | -            | --         | +         | +          |
-| Arduino     | ++           | --        | -           | ++         | ++              | ++          | ++           | ++         | --        | --         |
+| Materials          | Preciousness | intuitive | idiot proof | Modularity | Customizability | Versatility | High ceiling | Wide Walls | Low floor | Affordance |
+| ------------------ | ------------ | --------- | ----------- | ---------- | --------------- | ----------- | ------------ | ---------- | --------- | ---------- |
+| Lego               | ++           | ++        | ++          | ++         | -               | ++          | ++           | +          | ++        | ++         |
+| Little Bits        | ++           | -         | ++          | ++         | --              | -           | -            | --         | +         | +          |
+| Arduino            | ++           | --        | -           | ++         | ++              | ++          | ++           | ++         | --        | --         |
+| Cardboard          | --           | ++        | ++          | 0          | ++              | ++          | -            | -          | ++        | +          |
+| Makey Makey        | ++           | +         | ++          | 0          | +               | -           | -            | -          | +         | +          |
+| Arduino Sensor kit | ++           | -         | +           | ++         | ++              | ++          | ++           | ++         | --        | --         |
+| Totem Maker        |              |           |             |            |                 |             |              |            |           |            |
+| Byor               |              |           |             |            |                 |             |              |            |           |            |
+| MakerBeam          |              |           |             |            |                 |             |              |            |           |            |
+| AIY                | +            | --        | -           | +          | -               | --          | -            | -          | +         | -          |
+| RPI                | ++           | --        | --          | +          | +               | ++          | ++           | ++         | -         | -          |
+|                    |              |           |             |            |                 |             |              |            |           |            |
