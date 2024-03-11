@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-07-Tinkering-Assignment-3.md",
+                "file": "_posts/2024-03-04-Tinkering-Materials.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-07-Tinkering-Assignment-3.md",
+                "file": "_posts/2024-03-04-Tinkering-Materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-07-Tinkering-Assignment-3.md",
+                "file": "_posts/2024-03-04-Tinkering-Materials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-07-Tinkering-Assignment-3.md"
+                "file": "_posts/2024-03-04-Tinkering-Materials.md"
               }
             }
           },
@@ -157,16 +157,19 @@
   },
   "active": "da11a15b36e46b5c",
   "lastOpenFiles": [
-    "_posts/2024-03-04-Tinkering-Materials.md",
     "_posts/2024-03-07-Tinkering-Assignment-3.md",
+    "_posts/2024-03-11-session-3-reflection.md",
     "_posts/2024-02-23-Tinkering-Assignment-1.md",
+    "_posts/2024-02-23-Tinkering-Reflection.md",
+    "_posts/2024-02-26-Workspace.md",
+    "_posts/2024-03-04-Tinkering-Assignment-2.md",
+    "_posts/2024-03-04-Tinkering-Materials.md",
     "_site/assets/posts/programming/var.jpg",
     "_site/assets/posts/programming/simple_if.jpg",
     "_site/assets/posts/programming/preview.jpg",
     "_site/assets/posts/programming/loop.jpg",
     "_site/assets/posts/programming/if.jpg",
     "_site/assets/posts/programming",
-    "_posts/2024-03-04-Tinkering-Assignment-2.md",
     "assets/posts/programming/simple_if.jpg",
     "assets/posts/programming/simple.jpg",
     "assets/posts/programming/loop.jpg",
@@ -184,7 +187,6 @@
     "assets/posts/_site/workspace",
     "assets/posts/_site/block",
     "assets/posts/_site",
-    "assets/posts/programming",
-    "_posts/2024-02-23-Tinkering-Reflection.md"
+    "assets/posts/programming"
   ]
 }

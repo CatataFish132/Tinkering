@@ -1,13 +1,16 @@
 ---
-title: Assignment 2 Construction Block 
+title: Assignment 2 Construction Block
 date: 2024-03-04 12:55:00 +0100
-categories: [Tinkering, Assignments]
-tags: [assignment]     # TAG names should always be lowercase
+categories:
+  - Tinkering
+  - Assignments
+tags:
+  - assignment
 math: false
 img_path: /assets/posts/block/
 image:
   path: block2.png
-pin: true
+pin: false
 ---
 For this assignment I had to iterate on my previous design but change the preciousness and also make an interfacing piece that can interface with different materials.
 The current design has a quite high preciousness because of the amount of magnets it uses, so the block itself is very precious, but a simpler version of what I wanted the block to achieve can be created using just one magnet on each side.
