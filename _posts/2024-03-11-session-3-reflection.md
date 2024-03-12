@@ -11,8 +11,6 @@ comments: true
 mermaid: false
 ---
 
-# Session 3 reflection
-
 ## Chapter 5
 
 This chapter mostly focuses on constructionism as a way of teaching instead of instructionism. Constructionism can be summed up in these points:
@@ -26,7 +24,7 @@ I personally really like this idea of learning, it seems to be an overhaul to th
 
 >Less us, More them
 
-The book also continues to talk about how teachers are forced to assess students and that this disrupts the learning process. This portion reminds me of a video essay I watched a while back from Zoe Bee called [Grading is a myth](https://www.youtube.com/watch?v=fe-SZ_FPZew&t=1177s)which extensively goes into why grading students is bad for learning. This is mostly due to the focus becoming the rewards of a passing grade instead of learning itself, so students tend to do the minimal amount of learning necessary for a good grade. Giving a grade also reduces the value of learning, as Zoe Bee puts it (I'm paraphrasing here) `If I gave you a sandwich and told you that i would give 5 bucks if you ate it, then you would think that something is wrong with that sandwich.` So giving a reward after learning is basically saying that learning is so bad that you need a reward otherwise you wouldn't do it.
+The book also continues to talk about how teachers are forced to assess students and that this disrupts the learning process. This portion reminds me of a video essay I watched a while back from Zoe Bee called [Grading is a myth](https://www.youtube.com/watch?v=fe-SZ_FPZew)which extensively goes into why grading students is bad for learning. This is mostly due to the focus becoming the rewards of a passing grade instead of learning itself, so students tend to do the minimal amount of learning necessary for a good grade. Giving a grade also reduces the value of learning, as Zoe Bee puts it (I'm paraphrasing here) `If I gave you a sandwich and told you that i would give 5 bucks if you ate it, then you would think that something is wrong with that sandwich.` So giving a reward after learning is basically saying that learning is so bad that you need a reward otherwise you wouldn't do it.
 
 The assignment question was mostly to see where Montessori and Papert views overlapped or differed but i couldn't find much about Montessori view in this chapter. This was the only quote I could find.
 

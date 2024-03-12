@@ -27,7 +27,7 @@ My idea was to have a bunch of cards with arrows, the arrows would represent the
 
 But to make it more fun so I changed it to a racetrack. Now the race car is where the instruction pointer is at. The signs next to the road would tell the driver what to do. If statements would be junction so the sign might say something like if the variable i is lower than 3, make a right turn. This turn might actually lead back to an earlier road so that's how loops are done.
 
-# Setup
+# Making
 I printed out an A4 paper full of squares approximately 6 by 6 cm, I then drew all the cards I wanted on that paper, these included just a straight section of road, signs, turns and splittings. I then scanned this piece of paper and then cropped out all the squares. After I finished I could print out the squares on paper and cut them out with scissors, this way i didn't have to draw the same square twice and saved me a lot of time.
 
 # Variables
