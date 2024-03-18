@@ -10,7 +10,7 @@ image:
 ---
 
 ![Desktop View](magnets.jpg){: .left .w-50}
-![Desktop View](face.jpg){: .left .w-50}
+
 When first hearing this assignment my mind directly went to magnets instead of any physical link, 
 this might have be the case because in a lot of 3d prints you use magnets when you want to attach something to something else but not permanently. 
 So here is my design, it is a cube and every plane has 4 magnets in the corners, 
@@ -27,4 +27,3 @@ and because it uses magnets it is possible to cover up these magnets without imp
 
 One advantage of this building block is that it can connect to any side, unlike the popular Lego block that only connects the bottom and the top, this block connects to the sides as well, so it is very versatile.
 A disadvantage of this building block is that it is not very structurally strong, but this is also depended on the magnets that are used.
-

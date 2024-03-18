@@ -1,5 +1,5 @@
 ---
-title: Assignment 3 Programming
+title: Assignment 3 Physical Analogy for Programming
 date: 2024-03-07 11:28:38 +0100
 categories:
   - Tinkering
@@ -14,8 +14,7 @@ img_path: /assets/posts/programming/
 image:
   path: preview.jpg
 ---
-
-# Assignment 3 Physical Analogy for Programming
+# Introduction
 I wanted to focus on a few aspects of programming:
 - Variables
 - Program Flow
@@ -63,3 +62,5 @@ while b != 0:
 return a
 ```
 
+# Scaffolding
+To get used to this system scaffolding can be used. You could first just give the road pieces and let them make roads with it, without thinking about anything related to programming. After this you could give them the traffic sign cards where they can write things on. This could just be to go left if you wanna go to a place or something else. Then lastly the variables can be introduced. So in the end they know every component and what they do.
