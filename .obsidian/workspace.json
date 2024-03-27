@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b1ae24320182dc46",
+        "id": "3f7434f01414a438",
         "type": "tabs",
         "children": [
           {
-            "id": "da11a15b36e46b5c",
+            "id": "ffd31e26e96f01a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2024-03-07-Tinkering-Assignment-3.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3406085b7d201f8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-03-27-Where-is-what-index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-03-07-Tinkering-Assignment-3.md",
+                "file": "_posts/2024-03-27-Where-is-what-index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2024-03-07-Tinkering-Assignment-3.md",
+                "file": "_posts/2024-03-27-Where-is-what-index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2024-03-07-Tinkering-Assignment-3.md"
+                "file": "_posts/2024-03-27-Where-is-what-index.md"
               }
             }
           },
@@ -142,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,38 +169,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "da11a15b36e46b5c",
+  "active": "3406085b7d201f8c",
   "lastOpenFiles": [
     "_posts/2024-03-11-session-3-reflection.md",
-    "_posts/2024-03-04-Tinkering-Materials.md",
     "_posts/2024-03-07-Tinkering-Assignment-3.md",
-    "_posts/2024-02-23-Tinkering-Assignment-1.md",
-    "_posts/2024-02-23-Tinkering-Reflection.md",
-    "_posts/2024-02-26-Workspace.md",
+    "_posts/2024-03-04-Tinkering-Materials.md",
     "_posts/2024-03-04-Tinkering-Assignment-2.md",
+    "_posts/2024-02-26-Workspace.md",
+    "_posts/2024-02-23-Tinkering-Assignment-1.md",
+    "_posts/2024-02-05-Session-2-reflection.md",
+    "_posts/2024-02-23-session-1-reflection.md",
+    "TODO.md",
+    "TODO.md",
+    "_site/Untitled Kanban.html",
+    "Untitled.canvas",
+    "_site/Untitled.canvas",
+    "_site/TODO.md",
+    "_site/Untitled.md",
+    "README.md",
+    "_site/posts/session-1-reflection/index.html",
+    "_site/posts/session-1-reflection",
+    "_tabs/about.md",
+    "_posts/2024-03-27-Session-1-Reflection.md",
+    "_tabs/archives.md",
+    "_tabs/categories.md",
+    "_tabs/tags.md",
+    "_site/posts/Session-2-reflection/index.html",
+    "_site/posts/Session-2-reflection",
+    "_posts/2024-03-27-Where-is-what-index.md",
+    "_site/tags/week-2/index.html",
+    "_site/tags/week-2",
+    "_site/posts/Where-is-what-index/index.html",
+    "_site/posts/Where-is-what-index",
+    "_site/categories/miscellaneous/index.html",
     "_site/assets/posts/programming/var.jpg",
     "_site/assets/posts/programming/simple_if.jpg",
     "_site/assets/posts/programming/preview.jpg",
     "_site/assets/posts/programming/loop.jpg",
     "_site/assets/posts/programming/if.jpg",
-    "_site/assets/posts/programming",
     "assets/posts/programming/simple_if.jpg",
     "assets/posts/programming/simple.jpg",
     "assets/posts/programming/loop.jpg",
     "assets/posts/programming/if.jpg",
     "assets/posts/programming/var.jpg",
-    "_site/posts/Tinkering-Assignment-3/index.html",
-    "_site/posts/Tinkering-Assignment-3",
-    "_site/templates/post.html",
-    "Untitled.md",
     "test.md",
-    "templates/post.md",
-    "_site/Untitled.md",
-    "_site/templates/2024-03-07-Tinkering-Assignment-3.html",
-    "_site/templates",
-    "assets/posts/_site/workspace",
-    "assets/posts/_site/block",
-    "assets/posts/_site",
-    "assets/posts/programming"
+    "templates/post.md"
   ]
 }

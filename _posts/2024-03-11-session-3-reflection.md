@@ -2,11 +2,12 @@
 title: Session 3 Reflection
 date: 2024-03-11 18:59:55 +0100
 categories:
-  - Tinkering
-tags: 
+  - Reflection
+tags:
+  - week-3
 toc: false
 math: false
-pin: true
+pin: false
 comments: true
 mermaid: false
 ---

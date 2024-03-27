@@ -2,10 +2,9 @@
 title: Assignment 2 Construction Block
 date: 2024-03-04 12:55:00 +0100
 categories:
-  - Tinkering
   - Assignments
 tags:
-  - assignment
+  - week-2
 math: false
 img_path: /assets/posts/block/
 image:

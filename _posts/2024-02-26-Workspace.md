@@ -1,7 +1,8 @@
 ---
-title: Tinkering Workspace 
-date: 2024-02-26 17:50:00 +0100
-categories: [Tinkering]
+title: Tinkering Workspace
+date: 2024-02-20 17:50:00 +0100
+categories:
+  - Miscellaneous
 math: false
 img_path: /assets/posts/workspace/
 image:

@@ -2,12 +2,12 @@
 title: Assignment 3 Physical Analogy for Programming
 date: 2024-03-07 11:28:38 +0100
 categories:
-  - Tinkering
   - Assignments
-tags: 
+tags:
+  - week-3
 toc: false
 math: false
-pin: true
+pin: false
 comments: true
 mermaid: false
 img_path: /assets/posts/programming/

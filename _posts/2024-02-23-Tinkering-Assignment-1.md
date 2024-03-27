@@ -1,8 +1,10 @@
 ---
-title: Assignment 1 Construction Block 
+title: Assignment 1 Construction Block
 date: 2024-02-21 18:55:00 +0100
-categories: [Tinkering, Assignments]
-tags: [assignment]     # TAG names should always be lowercase
+categories:
+  - Assignments
+tags:
+  - week-1
 math: false
 img_path: /assets/posts/block/
 image:
