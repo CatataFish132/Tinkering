@@ -15,10 +15,10 @@ Let's start with where I think the definition coincide, tinkering to me is tryin
 ## Q2: Can you take a typical EE related project case and list 5 technical hurdles? to which extent do they allow for a 'playful' approach in tackling them?
 
 1. When you get an EE project you usually have a customer with a problem, it is your job to create a solution for this particular problem. Fortunately there are more possible solutions to this problem than just one so you come up with multiple solutions and even try a couple to see if they work as expected.
-
 2. When designing a circuit you can play with different components, this is the most fun when done in real life instead of a simulation, but it's also a fire hazard :)
-
-3. 
+3. When you design a circuit, it might not work or work sub-optimally.  So you need to find out what the problem is, this doesn't really allow for any playful approach.
+4. For EE projects we also do a lot of programming, this can be done playfully because programming is quite idiot-proof, you could just try stuff and see if it works.
+5. Lastly, for projects a lot of testing has to be done to verify if the final product has all the requirements. This is quite tedious and you can't really tackle this in a playful way.
 
 ## Q3: Where would you go hunting for tinkerspiration? List 5 physical and 5 online resources valuable for an EE specialist
 ### Online
@@ -44,11 +44,13 @@ Tinkering thrives in domains where mistakes have little to no consequences, and 
 1. Design (inexpensive to make designs due to technologies like 3D printing)
 2. Electronics (components are cheap and re-usable)
 3. Programming (making mistakes has no consequences)
-4. 
+4. Education (special toolboxes are available for educational purposes and tinkering is great for learning things)
+5. Robotics (kits are available, iterative, re-usable components)
 
 You shouldn't tinker in domains where mistakes have consequences, where components are very sensitive, and where mishandling components can be dangerous to other's or yourself.
 
 1. Medical industry (You could be endangering other peoples lives)
 2. Aerospace engineering (Realizing designs is expensive)
 3. Chemistry (You could accidentally make something toxic and endanger yourself and others)
-4. 
+4. Civil engineering (Structures need to be stable, otherwise you endanger people's lives.)
+5. Finances (You are gonna lose money investing in the wrong stuff, and that is expensive!!!!)
