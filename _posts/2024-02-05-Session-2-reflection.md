@@ -26,6 +26,8 @@ we used:
 - metal wires
 - Googly eyes (very important)
 - Popsicle sticks
+
+
 these materials except for the servo motors aren't precious at all so we didn't mind bending, folding or cutting them. They are inexpensive and easy to use so great for tinkering.
 Cardboard was the first thing we grabbed, this was because it's very easy to use and also the main building material we used, the other were extra's to connect other cardboard pieces together and make them move. The servo motor's were the ones with the highest ceiling even though it wasn't very high. It made it possible for it to actually move but were still very easy to use with the controllers provided.
 
