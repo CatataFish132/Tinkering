@@ -24,6 +24,3 @@ There are various [categories](/categories) to help you navigate through the con
 
 ## Tags
 Visit the [tags page](/tags) to explore posts categorized by specific weeks. Each week has its own tag.
-
-## Archive
-If you prefer to read the content chronologically, the [archive](/archives) provides all posts in chronological order. Click on the buttons below each post under "further reading" to access every post in sequence.

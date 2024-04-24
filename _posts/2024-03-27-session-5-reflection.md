@@ -1,8 +1,10 @@
 ---
 title: 
 date: 2024-03-27 18:22:50 +0100
-categories: 
-tags: 
+categories:
+  - Reflection
+tags:
+  - week-5
 toc: false
 math: false
 pin: false
@@ -37,23 +39,6 @@ Just like I answered in question 7, tinkering is not useful for designs that tak
 
 
 
-
-%% - Tinkering is a way to generate knowledge. What kind of knowledge results from a tinkering process in your experience?
-    
-- Tinkering with classical materials like clay, paper, colour, textiles, is more related to craft. How does tinkering work with digital and electronic media?
-    
-- One basic characteristic of science is reproducibility. Is that possible with tinkering? Or do we want that at all?
-    
-- Design practice changed during the past years, from long design phases to short, iterative processes, due to the availability of new prototyping technologies. Is this iterative process of prototyping qualitatively different from the cycles we do in tinkering?
-    
-- Can a co-design session be described as a tinkering session as we treat it in our course?
-    
-- The choice of materials (seed, tools, scaffolding, facilitation) has an effect on the outcome, the knowledge and products made in a tinkering session. How can we use that in a co-design session? Can we really influence the kind of results here, and do we want that?
-    
-- In “research through design” can tinkering fill in the design part?
-    
-- Are there design questions where tinkering is not a possible or useful approach?
-    
 - Read Invent to Learn[3)](https://wiki.edwindertien.nl/doku.php?id=education:masteringtinkering:05_critical_making#fn__3)
     
 - [Links to an external site.](https://wiki.edwindertien.nl/doku.php?id=education:masteringtinkering:05_critical_making#fn__3) page 41. how to balance real-world (criticality) with the fruitful mindset of tinkering?

@@ -1,5 +1,5 @@
 ---
-title: Session 1 Reflection (not complete yet)
+title: Session 1 Reflection
 date: 2024-02-20 08:31:00 +0100
 categories:
   - Reflection
