@@ -13,6 +13,8 @@ pin: false
 | -      | low       |
 | --     | Very low  |
 
+# Don't forget that you can scroll to the right!
+
 | Materials                                  | Tinkerability | Preciousness | intuitive | idiot proof | Modularity | Customizability | Versatility | High ceiling | Wide Walls | Low floor | Affordance | Re-usability | sustainability | Ecological footprint | Wastefulness | Responsiveness |
 | ------------------------------------------ | ------------- | ------------ | --------- | ----------- | ---------- | --------------- | ----------- | ------------ | ---------- | --------- | ---------- | ------------ | -------------- | -------------------- | ------------ | -------------- |
 | Lego                                       | ++            | ++           | ++        | ++          | ++         | -               | ++          | ++           | +          | ++        | ++         | ++           | --             | ++                   | +            | ++             |
