@@ -10,9 +10,6 @@ math: false
 pin: false
 comments: false
 mermaid: false
-img_path: /assets/posts/folder
-image:
-  path: preview.jpg
 ---
 # Materials
 The session started with a small presentation talking about materials. Shortly after we went to actually explore different materials. We had to think about what makes a material tinkerable. My thoughts on this are written in this [post](/posts/Tinkering-Materials).

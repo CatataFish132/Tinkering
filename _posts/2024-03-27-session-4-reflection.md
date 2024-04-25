@@ -10,9 +10,6 @@ math: false
 pin: false
 comments: false
 mermaid: false
-img_path: /assets/posts/folder
-image:
-  path: preview.jpg
 ---
 
 # Framing
