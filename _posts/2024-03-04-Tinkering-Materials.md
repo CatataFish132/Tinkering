@@ -7,27 +7,27 @@ pin: false
 ---
 | Rating | Meaning   |
 | ------ | --------- |
-| ++     | Very good |
-| +      | Good      |
+| ++     | Very high |
+| +      | high      |
 | 0      | Neutral   |
-| -      | Bad       |
-| --     | Very bad  |
+| -      | low       |
+| --     | Very low  |
 
-| Materials          | Tinkerability | Preciousness | intuitive | idiot proof | Modularity | Customizability | Versatility | High ceiling | Wide Walls | Low floor | Affordance | Re-usability | sustainability | Ecological footprint | Wastefulness | Responsiveness |
-| ------------------ | ------------- | ------------ | --------- | ----------- | ---------- | --------------- | ----------- | ------------ | ---------- | --------- | ---------- | ------------ | -------------- | -------------------- | ------------ | -------------- |
-| Lego               | ++            | ++           | ++        | ++          | ++         | -               | ++          | ++           | +          | ++        | ++         | ++           | --             | --                   | +            | ++             |
-| Little Bits        | ++            | ++           | -         | ++          | ++         | --              | -           | -            | --         | +         | +          | ++           | 0              | --                   | -            | ++             |
-| Arduino            | 0             | ++           | --        | -           | ++         | ++              | ++          | ++           | ++         | --        | --         | ++           | 0              | --                   | -            | -              |
-| Cardboard          | +             | --           | ++        | ++          | 0          | ++              | ++          | -            | -          | ++        | +          | --           | ++             | 0                    | --           | ++             |
-| Makey Makey        | +             | ++           | +         | ++          | 0          | +               | -           | -            | -          | +         | +          | ++           | 0              | --                   | -            | ++             |
-| Arduino Sensor kit | +             | ++           | -         | +           | ++         | ++              | ++          | ++           | ++         | --        | --         | ++           | 0              | --                   | -            | -              |
-| Totem Maker        | ++            | +            | +         | +           | ++         | +               | +           | +            | +          | 0         | -          | +            | 0              | --                   | -            | +              |
-| Byor               | ++            | +            | +         | ++          | +          | -               | --          | -            | -          | ++        | 0          | ++           | 0              | --                   | -            | ++             |
-| MakerBeam          | 0             | +            | +         | +           | ++         | --              | --          | --           | -          | ++        | +          | +            | 0              | -                    | -            | ++             |
-| AIY                | 0             | +            | --        | -           | +          | -               | --          | -            | -          | +         | -          | ++           | 0              | --                   | -            | -              |
-| RPI                | 0             | ++           | --        | --          | +          | +               | ++          | ++           | ++         | -         | -          | ++           | 0              | --                   | -            | -              |
-| Electronics        | ++            | -            | --        | --          | 0          | -               | ++          | ++           | ++         | ++        | --         | +            | 0              | --                   | -            | +              |
-| Paper              | +             | --           | ++        | ++          | 0          | +               | -           | --           | -          | ++        | ++         | --           | ++             | 0                    | 0            | ++             |
+| Materials                                  | Tinkerability | Preciousness | intuitive | idiot proof | Modularity | Customizability | Versatility | High ceiling | Wide Walls | Low floor | Affordance | Re-usability | sustainability | Ecological footprint | Wastefulness | Responsiveness |
+| ------------------------------------------ | ------------- | ------------ | --------- | ----------- | ---------- | --------------- | ----------- | ------------ | ---------- | --------- | ---------- | ------------ | -------------- | -------------------- | ------------ | -------------- |
+| Lego                                       | ++            | ++           | ++        | ++          | ++         | -               | ++          | ++           | +          | ++        | ++         | ++           | --             | ++                   | +            | ++             |
+| [Little Bits](https://littlebits.com/)     | ++            | ++           | -         | ++          | ++         | --              | -           | -            | --         | +         | +          | ++           | 0              | ++                   | -            | ++             |
+| Arduino                                    | 0             | ++           | --        | -           | ++         | ++              | ++          | ++           | ++         | --        | --         | ++           | 0              | ++                   | -            | -              |
+| Cardboard                                  | +             | --           | ++        | ++          | 0          | ++              | ++          | -            | -          | ++        | +          | --           | ++             | 0                    | --           | ++             |
+| [Makey Makey](https://makeymakey.com/)     | +             | ++           | +         | ++          | 0          | +               | -           | -            | -          | +         | +          | ++           | 0              | ++                   | -            | ++             |
+| Arduino Sensor kit                         | +             | ++           | -         | +           | ++         | ++              | ++          | ++           | ++         | --        | --         | ++           | 0              | ++                   | -            | -              |
+| [Totem Maker](https://totemmaker.net/)     | ++            | +            | +         | +           | ++         | +               | +           | +            | +          | 0         | -          | +            | 0              | ++                   | -            | +              |
+| [Byor](https://www.byor.nl/)               | ++            | +            | +         | ++          | +          | -               | --          | -            | -          | ++        | 0          | ++           | 0              | ++                   | -            | ++             |
+| [MakerBeam](https://www.makerbeam.com/)    | 0             | +            | +         | +           | ++         | --              | --          | --           | -          | ++        | +          | +            | 0              | +                    | -            | ++             |
+| [AIY](https://aiyprojects.withgoogle.com/) | 0             | +            | --        | -           | +          | -               | --          | -            | -          | +         | -          | ++           | 0              | ++                   | -            | -              |
+| [RPI](https://www.raspberrypi.com/)        | 0             | ++           | --        | --          | +          | +               | ++          | ++           | ++         | -         | -          | ++           | 0              | ++                   | -            | -              |
+| Electronics                                | ++            | -            | --        | --          | 0          | -               | ++          | ++           | ++         | ++        | --         | +            | 0              | ++                   | -            | +              |
+| Paper                                      | +             | --           | ++        | ++          | 0          | +               | -           | --           | -          | ++        | ++         | --           | ++             | 0                    | 0            | ++             |
 
 - Tinkerability: How Tinkerable a material is.
 - Preciousness: how precious the material is, like Lego is very precious because it is expensive and you would not want to break it or cut it in half.
@@ -42,6 +42,6 @@ pin: false
 - Affordance: The ability of the material to communicate how it is used.
 - Re-usability: How reusable the material is.
 - Sustainability: how sustainable the material is regarding to environmental.
-- Ecological footprint: how much resources are used or waste is generated while producing the material.
-- Wastefulness: how much waste is generated by the material or the production of the material
+- Ecological footprint: how much resources are used or waste is generated while producing the material. Lower is better.
+- Wastefulness: how much waste is generated by the material or the production of the material.
 - Responsiveness: How responsive a material is, like Lego is very responsive because you can click blocks together instantaneously while something like hot glue is not responsive because it takes a while to dry.
