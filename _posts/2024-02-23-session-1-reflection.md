@@ -21,6 +21,7 @@ Let's start with where I think the definition coincide, tinkering to me is tryin
 5. Lastly, for projects a lot of testing has to be done to verify if the final product has all the requirements. This is quite tedious and you can't really tackle this in a playful way.
 
 ## Q3: Where would you go hunting for tinkerspiration? List 5 physical and 5 online resources valuable for an EE specialist
+
 ### Online
 I get inspired by either easily used electronic components, which you can find at sites like spark fun, they sell breakout boards, micro-controllers among other stuff. Or by cool projects! so the rest of this list are sources where you can find projects of other people.
 1. https://www.sparkfun.com/
